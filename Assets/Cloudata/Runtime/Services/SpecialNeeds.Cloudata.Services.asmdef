@@ -1,0 +1,25 @@
+{
+    "name": "SpecialNeeds.Cloudata.Services",
+    "references": [
+        "GUID:5c14b4b1c8c0a544b8bd81f22a8ae14d",
+        "GUID:acef678a4b61db04d864065e8bc14cd1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Azure.KeyVault.Core.dll",
+        "Microsoft.Azure.Storage.Blob.dll",
+        "Microsoft.Azure.Storage.Common.dll",
+        "Newtonsoft.Json.dll",
+        "EntityFramework.dll",
+        "EntityFramework.SqlServer.dll",
+        "I18N.dll",
+        "I18N.West.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

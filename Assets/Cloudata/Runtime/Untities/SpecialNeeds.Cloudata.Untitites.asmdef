@@ -1,0 +1,16 @@
+{
+    "name": "SpecialNeeds.Cloudata.Untitites",
+    "references": [
+        "GUID:5c14b4b1c8c0a544b8bd81f22a8ae14d",
+        "GUID:f06555f75b070af458a003d92f9efb00"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
