@@ -1,0 +1,4 @@
+﻿# Dependencies 
+- UniRx
+- UniTask
+- Mirror
